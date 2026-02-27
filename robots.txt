@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fatirhub-v1pro2025.github.io/TOP-UP-FREE-FIRE/sitemap.xml
